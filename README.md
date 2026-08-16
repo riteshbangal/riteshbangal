@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Ritesh Bangal 👋
 
 ### Backend & Platform Engineer
