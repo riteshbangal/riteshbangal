@@ -22,15 +22,6 @@ automation, and AI-assisted open-source contribution workflows.
 - **Observability:** Prometheus, Grafana, Spring Boot Actuator
 - **Applied AI:** MCP servers, AI-assisted developer tooling
 
-## Certifications & Badges
-
-<a href="https://www.credly.com/badges/0cf595ef-6a17-49e7-85d8-93f6be449cfc">
-  <img src="./assets/agentgateway-mcp-tool-modes-badge.png" width="180" alt="Comparing MCP tool modes in agentgateway for cost control badge">
-</a>
-
-**Comparing MCP tool modes in agentgateway for cost control** — Solo.io  
-[Verify on Credly](https://www.credly.com/badges/0cf595ef-6a17-49e7-85d8-93f6be449cfc)
-
 ## Selected Projects
 
 ### [Kafka Deep Dive](https://github.com/riteshbangal/kafka-deep-dive)
