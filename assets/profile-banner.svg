@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 244" width="1000" height="244" role="img" aria-labelledby="title desc">
+  <title id="title">Ritesh Bangal — Staff Software Engineer</title>
+  <desc id="desc">Backend engineering, cloud-native platforms and agentic AI. A navy and teal engineering-themed banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101C32"/>
+      <stop offset="1" stop-color="#183C4A"/>
+    </linearGradient>
+    <linearGradient id="accent"><stop stop-color="#67E8C6"/><stop offset="1" stop-color="#72AFFF"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#A8D9EF" stroke-width=".6" opacity=".12"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1000" height="244" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="244" fill="url(#bg)"/>
+    <rect x="605" width="395" height="244" fill="url(#grid)"/>
+    <g fill="none" stroke="#78C8DC" stroke-width="1.5" opacity=".43">
+      <path d="M745 36L840 83 935 36M745 36V132L840 182 935 132V36M745 132L840 83 935 132M840 83V182"/>
+      <path d="M700 83L745 36M700 83L745 132M935 36L975 83 935 132"/>
+    </g>
+    <g fill="#203D50" stroke="#8BDDD7" stroke-width="1.5">
+      <rect x="728" y="19" width="34" height="34" rx="8"/>
+      <rect x="823" y="66" width="34" height="34" rx="8"/>
+      <rect x="918" y="19" width="34" height="34" rx="8"/>
+      <rect x="728" y="115" width="34" height="34" rx="8"/>
+      <rect x="918" y="115" width="34" height="34" rx="8"/>
+      <rect x="823" y="165" width="34" height="34" rx="8"/>
+    </g>
+    <g stroke="#9DECE0" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M739 36l4 4 8-8M834 83l4 4 8-8M929 36h12m-6-6v12M739 132h12m-12 5h12M929 127l6 5-6 5m9-10 6 5-6 5M834 178h12m-12 5h12m-12 5h12"/>
+    </g>
+    <g font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      <rect x="42" y="37" width="4" height="20" rx="2" fill="#67E8C6"/>
+      <text x="58" y="52" font-size="15" font-weight="700" letter-spacing="2.8" fill="#A3E6E1">STAFF SOFTWARE ENGINEER</text>
+      <text x="42" y="116" font-size="57" font-weight="700" letter-spacing="-2" fill="#F4F8FF">Ritesh Bangal</text>
+      <text x="45" y="151" font-size="21" fill="#C2D5E5">Building reliable systems, from code to production.</text>
+      <g font-size="14" font-weight="600">
+        <rect x="44" y="177" width="174" height="34" rx="17" fill="#1C354A" stroke="#426479"/>
+        <text x="131" y="199" text-anchor="middle" fill="#DBEFFB">Backend Engineering</text>
+        <rect x="228" y="177" width="192" height="34" rx="17" fill="#1C354A" stroke="#426479"/>
+        <text x="324" y="199" text-anchor="middle" fill="#DBEFFB">Cloud-Native Platforms</text>
+        <rect x="430" y="177" width="125" height="34" rx="17" fill="#1C354A" stroke="#426479"/>
+        <text x="492.5" y="199" text-anchor="middle" fill="#A3E6E1">Agentic AI</text>
+      </g>
+    </g>
+    <rect x="0" y="240" width="1000" height="4" fill="url(#accent)"/>
+  </g>
+</svg>
